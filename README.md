@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saksham
-- 👀 I’m interested in Software Development(BackEnd) as well as DevOps roles
+- 👀 I’m working as a Software Developer(BackEnd). 
 - 📫 You can connect with me through LinkedIn
 https://www.linkedin.com/in/saksham-b5a5141a9/
 https://leetcode.com/sakshamsinha2612/
